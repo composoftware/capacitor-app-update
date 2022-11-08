@@ -1,6 +1,6 @@
 {
-  "name": "@robingenz/capacitor-app-update",
-  "version": "1.3.1",
+  "name": "@composoftware/capacitor-app-update",
+  "version": "1.3.2",
   "description": "Capacitor plugin that assists with app updates.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,13 +11,13 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "RobingenzCapacitorAppUpdate.podspec"
+    "ComposoftwareCapacitorAppUpdate.podspec"
   ],
   "author": "Robin Genz <mail@robingenz.dev>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robingenz/capacitor-app-update.git"
+    "url": "git@github.com:composoftware/capacitor-app-update.git"
   },
   "bugs": {
     "url": "https://github.com/robingenz/capacitor-app-update/issues"
